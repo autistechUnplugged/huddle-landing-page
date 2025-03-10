@@ -5,4 +5,4 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
 ## Wanna check the result?
-[Huddle landing page](https://vonhappatsch.github.io/huddle-landing-page)
+[Huddle landing page](https://autistechunplugged.github.io/huddle-landing-page/)
